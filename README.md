@@ -10,23 +10,19 @@ I'm a game programmer, currently based in Rawalpindi, Pakistan. I have worked on
 
 As a game programmer, I take a lot of joy in being able to continually work on a variety of different projects as it forces me to interact with new technologies, work with new people and consistently allow me to keep growing and learning. It always feels like an adventure to being able to always work on the most interesting up-and-coming opportunities that present themselves to you. My passion truly lies in game development. I love being able to design and develop interactive experiences that can be enjoyed globally by a wide-range of different audiences. I also love being able to create and experiment with the development of indie tools, as it gives me a chance to try and give back to the community I work in and hopefully make the lives of my fellow developers easier.
 
-I'm always on the lookout for interesting projects to work on, so if you think that's you, send me an email!
-
-##### umarbinnazir@gmail.com
-
 ### SKILLS
 
-- #####LANGUAGES
-  - #####C++, C#, Java, Python, HTML5, CSS3, 
+- LANGUAGES
+  - C++, C#, Java, Python, HTML5, CSS3, 
 
-- #####ENGINES/ FRAMEWORKS
-  - #####UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
+- ENGINES/ FRAMEWORKS
+  - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
 
-- #####TOOLS
-  - #####UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
+- TOOLS
+  - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
 
-- #####FIELDS
-  - #####GamePlay, Tools, Scripting, User Interface, Performance Optimization 
+- FIELDS
+  - GamePlay, Tools, Scripting, User Interface, Performance Optimization 
 
 ```markdown
 
@@ -55,3 +51,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+I'm always on the lookout for interesting projects to work on, so if you think that's you, send me an email at ##### umarbinnazir@gmail.com
+
+You can also Contact me on [LinkedIn]
+(https://www.linkedin.com/in/memumar/) or Follow me on [Twitter]
+(https://twitter.com/meMUmar) and I'll help you sort it out.
