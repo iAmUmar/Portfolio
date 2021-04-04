@@ -14,16 +14,10 @@ As a game programmer, I take a lot of joy in being able to continually work on a
 
 - LANGUAGES
   - C++, C#, Java, Python, HTML5, CSS3, 
-
-
 - ENGINES/ FRAMEWORKS
   - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
-
-
 - TOOLS
   - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
-
-
 - FIELDS
   - GamePlay, Tools, Scripting, User Interface, Performance Optimization 
 
