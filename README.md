@@ -16,17 +16,17 @@ I'm always on the lookout for interesting projects to work on, so if you think t
 
 ### SKILLS
 
-#### * LANGUAGES
-####    - C++, C#, Java, Python, HTML5, CSS3, 
+- LANGUAGES
+  - C++, C#, Java, Python, HTML5, CSS3, 
 
-#### * ENGINES/ FRAMEWORKS
-####    - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
+- ENGINES/ FRAMEWORKS
+  - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
 
-#### * TOOLS
-####    - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
+- TOOLS
+  - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
 
-#### * FIELDS
-####    - GamePlay, Tools, Scripting, User Interface, Performance Optimization 
+- FIELDS
+  - GamePlay, Tools, Scripting, User Interface, Performance Optimization 
 
 ```markdown
 
