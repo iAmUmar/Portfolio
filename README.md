@@ -1,10 +1,10 @@
 # Muhammad Umar
 
-## Game Developer
+## GAME PROGRAMMER
 
 I'm a passionate professional programmer who loves to design and develop game-focused applications.
 
-### Background
+### BACKGROUND
 
 I'm a game programmer, currently based in Rawalpindi, Pakistan. I have worked on variety of projects, from an individual looking solely on diferent production phases of an project to someone who works within a team and go through different life-cycles of a project. I graduated from A.Q.Khan Institute of Computer Science and Information Techonology, with First-class bachelors in IT. Interactive Entertainment: Game Development, Game Optimization and have commercial Programming experience.
 
@@ -14,8 +14,22 @@ I'm always on the lookout for interesting projects to work on, so if you think t
 
 #### umarbinnazir@gmail.com
 
+### SKILLS
+
+#### * LANGUAGES
+####    - C++, C#, Java, Python, HTML5, CSS3, 
+
+#### * ENGINES/ FRAMEWORKS
+####    - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
+
+#### * TOOLS
+####    - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
+
+#### * FIELDS
+####    - GamePlay, Tools, Scripting, User Interface, Performance Optimization 
+
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
