@@ -29,4 +29,4 @@ As a game programmer, I take a lot of joy in being able to continually work on a
 
 I'm always on the lookout for interesting projects to work on, so if you think that's you, send me an email at **umarbinnazir@gmail.com**
 
-You can also Contact me on [LinkedIn](https://www.linkedin.com/in/memumar/) or Follow me on [Twitter](https://twitter.com/meMUmar) and I'll help you sort it out.
+You can also Contact me on [LinkedIn](https://www.linkedin.com/in/memumar/) or Follow me on [Twitter](https://twitter.com/meMUmar).
