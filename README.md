@@ -1,5 +1,3 @@
-# Muhammad Umar
-
 ## XR & Game Developer
 
 I'm a passionate professional programmer who loves to design and develop game-focused applications.
