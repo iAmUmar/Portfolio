@@ -1,25 +1,66 @@
 # Muhammad Umar
 
-## Game Programmer
+## XR & Game Developer
 
 I'm a passionate professional programmer who loves to design and develop game-focused applications.
 
 ### Background
 
-I'm a game programmer, currently based in Rawalpindi, Pakistan. I have worked on variety of projects, from an individual looking solely on diferent production phases of an project to someone who works within a team and go through different life-cycles of a project. I graduated from A.Q.Khan Institute of Computer Science and Information Techonology, with First-class bachelors in IT. Interactive Entertainment: Game Development, Game Optimization and have commercial Programming experience.
+I am a seasoned XR and game developer with over seven years of experience creating immersive, interactive, and optimized experiences across VR, AR, mobile, and PC platforms. My expertise lies in crafting high-performance applications tailored for cutting-edge hardware, including Oculus Quest and HTC Vive, while navigating the challenges of diverse hardware environments.
 
-As a game programmer, I take a lot of joy in being able to continually work on a variety of different projects as it forces me to interact with new technologies, work with new people and consistently allow me to keep growing and learning. It always feels like an adventure to being able to always work on the most interesting up-and-coming opportunities that present themselves to you. My passion truly lies in game development. I love being able to design and develop interactive experiences that can be enjoyed globally by a wide-range of different audiences. I also love being able to create and experiment with the development of indie tools, as it gives me a chance to try and give back to the community I work in and hopefully make the lives of my fellow developers easier.
+From building immersive VR simulations to enhancing mobile gaming experiences, my passion for innovation drives me to push boundaries in interactive storytelling and user engagement. I am committed to delivering visually stunning and technically sound products that elevate user experiences.
 
-### Skills
+### Professional Skills
 
-- LANGUAGES
-  - C++, C#, Java, Python, HTML5, CSS3, 
-- ENGINES/ FRAMEWORKS
-  - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
-- TOOLS
-  - UNITY, BuildBox, Unreal 4, Cocos2D, Blender, React, Node.js 
-- FIELDS
-  - GamePlay, Tools, Scripting, User Interface, Performance Optimization 
+- Development Expertise
+  - Unity, Unreal Engine, Git, Jira, Trello, Version Control 
+- Programming Languages
+  - C#, C/C++, Python, JavaScript, TypeScript, React 
+- Platforms
+  - VR (Oculus Quest, HTC Vive), AR, Mobile (Android, iOS), WebGL, PC 
+- Specializations
+  - Performance optimization, animation systems, UI/UX enhancement, monetization strategies, and analytics integration
+
+
+### Work Experience
+
+#### Senior XR Developer | Orbit-ED | Feb 2023 – Present
+
+- Designed scalable systems for VR simulators and applications, adapting to evolving requirements.
+- Implemented addressable solutions, significantly optimizing APK size and version control processes.
+
+#### Game Developer | The Knights | Aug 2019 – Jan 2023
+
+- Achieved a 40% increase in monthly revenue by integrating ad networks and in-app purchases.
+- Enhanced application performance and aesthetics, transforming UI and animation systems.
+
+#### Unity Developer | Rapt Games | Jan 2018 – Jul 2019
+- Reduced mobile game build sizes by 15%, improving overall performance.
+- Maintained and improved existing game titles to enhance user experience.
+
+#### Game Developer | Zoy Solutions | Jan 2017 – Dec 2017
+- Led the development of VR games for HTC Vive, ensuring immersive and interactive gameplay.
+
+### Educational Background
+
+#### Bachelor of Engineering in Information Technology (BEIT)
+
+A.Q. Khan Institute of Computer Science and IT | 2012 – 2016
+
+### Projects and Highlights
+
+- Developed and optimized training simulators for Oculus Quest, used in corporate onboarding.
+- Contributed to multiple mobile and PC-based titles, addressing performance and crash issues for diverse audiences.
+- Designed VR experiences blending gaming and education for HTC Vive, targeting interactive learning.
+
+### Contact
+
+- ✉️ Email: umarbinnazir@gmail.com
+- 🌐 LinkedIn: linkedin.com/in/memumar
+
+### Portfolio
+
+
 
 
 ### Support or Contact
