@@ -43,9 +43,8 @@ From building immersive VR simulations to enhancing mobile gaming experiences, m
 
 ### Educational Background
 
-#### Bachelor of Engineering in Information Technology (BEIT)
-
-A.Q. Khan Institute of Computer Science and IT | 2012 – 2016
+- Bachelor of Engineering in Information Technology (BEIT)
+  - A.Q. Khan Institute of Computer Science and IT | 2012 – 2016
 
 ### Projects and Highlights
 
