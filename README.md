@@ -25,12 +25,10 @@ From building immersive VR simulations to enhancing mobile gaming experiences, m
 ### Work Experience
 
 #### Senior XR Developer | Orbit-ED | Feb 2023 – Present
-
 - Designed scalable systems for VR simulators and applications, adapting to evolving requirements.
 - Implemented addressable solutions, significantly optimizing APK size and version control processes.
 
 #### Game Developer | The Knights | Aug 2019 – Jan 2023
-
 - Achieved a 40% increase in monthly revenue by integrating ad networks and in-app purchases.
 - Enhanced application performance and aesthetics, transforming UI and animation systems.
 
