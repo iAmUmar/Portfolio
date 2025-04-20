@@ -72,6 +72,37 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+dl {
+	margin: 0 0 2rem 0;
+}
+
+	dl dt {
+		display: block;
+		font-weight: 400;
+		margin: 0 0 1rem 0;
+	}
+
+	dl dd {
+		margin-left: 2rem;
+	}
+
+	dl.style2 dt {
+		width: 25%;
+		float: left;
+	}
+
+	dl.style2 dd {
+		width: 70%;
+		float: left;
+	}
+
+	dl.style2:after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+
 /* Basic */
 
 	html {
@@ -2261,6 +2292,10 @@ input, select, textarea {
 
 			#main > section.four {
 				background-color: #e8edec;
+			}
+
+			#main > section.five {
+				background-color: #ecf1f1;
 			}
 
 /* Wide */
