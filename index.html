@@ -79,53 +79,87 @@
 
 				<!-- Portfolio -->
 					<section id="portfolio" class="two">
-						<div class="container">
+						<div class="container tabs">
 
 							<header>
 								<h2>Portfolio</h2>
 							</header>
 
-							<p>I have contributed to companies like Orbit-ED and Mobify in building VR training simulators, mobile games, and WebGL experiences. My work at Orbit-ED involved designing scalable VR systems and streamlining production pipelines, while at Mobify, it was around creating mobile games experiances.</p>
-
-							<div class="row">
-								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a href="https://play.google.com/store/apps/details?id=com.volcano.modrn.car.parking.d" class="image fit"><img src="images/car_parking.webp" alt="" /></a>
-										<header>
-											<h3>Modern Car Parking (Gamexis)</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="https://play.google.com/store/apps/details?id=com.gamexis.sniper.professional.action.game.apps" class="image fit"><img src="images/sniper_shooting.webp" alt="" /></a>
-										<header>
-											<h3>Legend Sniper Shooting (Gamexis)</h3>
-										</header>
-									</article>
-								</div>
-								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a href="https://play.google.com/store/apps/details?id=com.tb.minicar.rush.racing.drivinggames" class="image fit"><img src="images/mini_car.webp" alt="" /></a>
-										<header>
-											<h3>Mini Car Runner (Frolics Games)</h3>
-										</header>
-									</article>
-								</div>
-								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a href="https://play.google.com/store/apps/details?id=com.gamexis.racing.ferocity.apps" class="image fit"><img src="images/endless_racing.webp" alt="" /></a>
-										<header>
-											<h3>Real Highway Car Racing (Gamexis)</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="https://play.google.com/store/apps/details?id=com.gamexis.car.design.mechanic.shop.apps" class="image fit"><img src="images/car_mechanic.webp" alt="" /></a>
-										<header>
-											<h3>Car Mechanic (Frolics Games)</h3>
-										</header>
-									</article>
-								</div>
+							<div class="tab-buttons">
+								<button class="tab-btn active" onclick="openTab(event, 'vr')">VR</button>
+								<button class="tab-btn" onclick="openTab(event, 'mobile')">Mobile</button>
+								<button class="tab-btn" onclick="openTab(event, 'webgl')">WebGL</button>
+								<button class="tab-btn" onclick="openTab(event, 'pc')">PC</button>
 							</div>
 
+							<div id="vr" class="tab-content active">
+								<br>
+								<br>
+								<p>Coming Soon</p>
+								<br>
+								<br>
+							</div>
+
+							<div id="mobile" class="tab-content">
+								<br>
+								<p>I have contributed to companies like Orbit-ED and Mobify in building VR training simulators, mobile games, and WebGL experiences. My work at Orbit-ED involved designing scalable VR systems and streamlining production pipelines, while at Mobify, it was around creating mobile games experiances.</p>
+								<br>
+
+								<div class="row">
+									<div class="col-4 col-12-mobile">
+										<article class="item">
+											<a href="https://play.google.com/store/apps/details?id=com.volcano.modrn.car.parking.d" class="image fit"><img src="images/car_parking.webp" alt="" /></a>
+											<header>
+												<h3>Modern Car Parking (Gamexis)</h3>
+											</header>
+										</article>
+										<article class="item">
+											<a href="https://play.google.com/store/apps/details?id=com.gamexis.sniper.professional.action.game.apps" class="image fit"><img src="images/sniper_shooting.webp" alt="" /></a>
+											<header>
+												<h3>Legend Sniper Shooting (Gamexis)</h3>
+											</header>
+										</article>
+									</div>
+									<div class="col-4 col-12-mobile">
+										<article class="item">
+											<a href="https://play.google.com/store/apps/details?id=com.tb.minicar.rush.racing.drivinggames" class="image fit"><img src="images/mini_car.webp" alt="" /></a>
+											<header>
+												<h3>Mini Car Runner (Frolics Games)</h3>
+											</header>
+										</article>
+									</div>
+									<div class="col-4 col-12-mobile">
+										<article class="item">
+											<a href="https://play.google.com/store/apps/details?id=com.gamexis.racing.ferocity.apps" class="image fit"><img src="images/endless_racing.webp" alt="" /></a>
+											<header>
+												<h3>Real Highway Car Racing (Gamexis)</h3>
+											</header>
+										</article>
+										<article class="item">
+											<a href="https://play.google.com/store/apps/details?id=com.gamexis.car.design.mechanic.shop.apps" class="image fit"><img src="images/car_mechanic.webp" alt="" /></a>
+											<header>
+												<h3>Car Mechanic (Frolics Games)</h3>
+											</header>
+										</article>
+									</div>
+								</div>
+							</div>
+							
+							<div id="webgl" class="tab-content">
+								<br>
+								<br>
+								<p>Coming Soon</p>
+								<br>
+								<br>
+							</div>
+
+							<div id="pc" class="tab-content">
+								<br>
+								<br>
+								<p>Coming Soon</p>
+								<br>
+								<br>
+							</div>
 						</div>
 					</section>
 
@@ -233,6 +267,18 @@ You can also contact me on LinkedIn or follow me on Twitter.</p>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script>
+			  function openTab(evt, tabId) {
+			    const tabs = document.querySelectorAll(".tab-content");
+			    const buttons = document.querySelectorAll(".tab-btn");
+
+			    tabs.forEach(tab => tab.classList.remove("active"));
+			    buttons.forEach(btn => btn.classList.remove("active"));
+
+			    document.getElementById(tabId).classList.add("active");
+			    evt.currentTarget.classList.add("active");
+			  }
+			</script>
 
 	</body>
 </html>
